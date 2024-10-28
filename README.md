@@ -1,1 +1,1 @@
-Este es mi primer archivo en Gitgit 
+Texto modificado en conflicto
